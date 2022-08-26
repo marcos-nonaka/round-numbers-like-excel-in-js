@@ -36,6 +36,7 @@ function roundLikeExcel(number, numberOfDecimals) {
     }
 }
 
+// Function to capture cases of more than one decimal place
 function captureCaseAbove1(number, splitedNumber) {
     splitedDecimals = splitedNumber[1].split("");
     const adjustedDecimals = [];
