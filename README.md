@@ -3,7 +3,7 @@
 
 Algorithm/script to round numbers precisaly like in the Excel but in JavaScript. Note: The first version only round numbers to max 10 decimals.
 
-Syntax: roundLikeExcel(number, numberOfDecimals)
+Syntax: roundLikeExcel(number, numberOfDecimalsRequired)
 
 <hr>
 
