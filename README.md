@@ -1,7 +1,7 @@
 # round-numbers-like-excel-in-js
 ![usa-flag-50x50](https://user-images.githubusercontent.com/92412283/183303173-abeb9539-05c1-4ee0-8f33-20b96d26cc6f.png)
 
-Algorithm/script to round numbers precisaly like in the Excel but in JavaScript. Note: The first version only round numbers to max 10 decimals.
+Algorithm/script to round numbers precisaly like Excel but in JavaScript. Note: The first version only round numbers to max 10 decimals.
 
 Syntax: roundLikeExcel(number, numberOfDecimalsRequired)
 
